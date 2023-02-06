@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="AutomobilDataSet8" targetNamespace="http://tempuri.org/AutomobilDataSet8.xsd" xmlns:mstns="http://tempuri.org/AutomobilDataSet8.xsd" xmlns="http://tempuri.org/AutomobilDataSet8.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="AutomobilConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="AutomobilConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Automobile.Properties.Settings.GlobalReference.Default.AutomobilConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="NumeTableAdapter" GeneratorDataComponentClassName="NumeTableAdapter" Name="Nume" UserDataComponentName="NumeTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="AutomobilConnectionString (Settings)" DbObjectName="Automobil.dbo.Nume" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Firma, Tara, Model, AnProducere, CapCil, Combustibil, Culoare, Pret FROM dbo.Nume</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Firma" DataSetColumn="Firma" />
+              <Mapping SourceColumn="Tara" DataSetColumn="Tara" />
+              <Mapping SourceColumn="Model" DataSetColumn="Model" />
+              <Mapping SourceColumn="AnProducere" DataSetColumn="AnProducere" />
+              <Mapping SourceColumn="CapCil" DataSetColumn="CapCil" />
+              <Mapping SourceColumn="Combustibil" DataSetColumn="Combustibil" />
+              <Mapping SourceColumn="Culoare" DataSetColumn="Culoare" />
+              <Mapping SourceColumn="Pret" DataSetColumn="Pret" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="AutomobilDataSet8" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="AutomobilDataSet8" msprop:Generator_UserDSName="AutomobilDataSet8">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Nume" msprop:Generator_TableClassName="NumeDataTable" msprop:Generator_TableVarName="tableNume" msprop:Generator_RowChangedName="NumeRowChanged" msprop:Generator_TablePropName="Nume" msprop:Generator_RowDeletingName="NumeRowDeleting" msprop:Generator_RowChangingName="NumeRowChanging" msprop:Generator_RowEvHandlerName="NumeRowChangeEventHandler" msprop:Generator_RowDeletedName="NumeRowDeleted" msprop:Generator_RowClassName="NumeRow" msprop:Generator_UserTableName="Nume" msprop:Generator_RowEvArgName="NumeRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Firma" msprop:Generator_ColumnVarNameInTable="columnFirma" msprop:Generator_ColumnPropNameInRow="Firma" msprop:Generator_ColumnPropNameInTable="FirmaColumn" msprop:Generator_UserColumnName="Firma" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Tara" msprop:Generator_ColumnVarNameInTable="columnTara" msprop:Generator_ColumnPropNameInRow="Tara" msprop:Generator_ColumnPropNameInTable="TaraColumn" msprop:Generator_UserColumnName="Tara" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Model" msprop:Generator_ColumnVarNameInTable="columnModel" msprop:Generator_ColumnPropNameInRow="Model" msprop:Generator_ColumnPropNameInTable="ModelColumn" msprop:Generator_UserColumnName="Model" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="AnProducere" msprop:Generator_ColumnVarNameInTable="columnAnProducere" msprop:Generator_ColumnPropNameInRow="AnProducere" msprop:Generator_ColumnPropNameInTable="AnProducereColumn" msprop:Generator_UserColumnName="AnProducere" type="xs:int" minOccurs="0" />
+              <xs:element name="CapCil" msprop:Generator_ColumnVarNameInTable="columnCapCil" msprop:Generator_ColumnPropNameInRow="CapCil" msprop:Generator_ColumnPropNameInTable="CapCilColumn" msprop:Generator_UserColumnName="CapCil" type="xs:int" minOccurs="0" />
+              <xs:element name="Combustibil" msprop:Generator_ColumnVarNameInTable="columnCombustibil" msprop:Generator_ColumnPropNameInRow="Combustibil" msprop:Generator_ColumnPropNameInTable="CombustibilColumn" msprop:Generator_UserColumnName="Combustibil" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Culoare" msprop:Generator_ColumnVarNameInTable="columnCuloare" msprop:Generator_ColumnPropNameInRow="Culoare" msprop:Generator_ColumnPropNameInTable="CuloareColumn" msprop:Generator_UserColumnName="Culoare" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Pret" msprop:Generator_ColumnVarNameInTable="columnPret" msprop:Generator_ColumnPropNameInRow="Pret" msprop:Generator_ColumnPropNameInTable="PretColumn" msprop:Generator_UserColumnName="Pret" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

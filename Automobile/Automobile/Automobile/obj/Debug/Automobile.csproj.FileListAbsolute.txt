@@ -1,0 +1,171 @@
+E:\CEITI (CICH)\Practica SQL anu 3\Automobile\Automobile\bin\Debug\Automobile.exe.config
+E:\CEITI (CICH)\Practica SQL anu 3\Automobile\Automobile\bin\Debug\Automobile.exe
+E:\CEITI (CICH)\Practica SQL anu 3\Automobile\Automobile\bin\Debug\Automobile.pdb
+E:\CEITI (CICH)\Practica SQL anu 3\Automobile\Automobile\obj\Debug\Automobile.Form1.resources
+E:\CEITI (CICH)\Practica SQL anu 3\Automobile\Automobile\obj\Debug\Automobile.Form2.resources
+E:\CEITI (CICH)\Practica SQL anu 3\Automobile\Automobile\obj\Debug\Automobile.Properties.Resources.resources
+E:\CEITI (CICH)\Practica SQL anu 3\Automobile\Automobile\obj\Debug\Automobile.csproj.GenerateResource.Cache
+E:\CEITI (CICH)\Practica SQL anu 3\Automobile\Automobile\obj\Debug\Automobile.exe
+E:\CEITI (CICH)\Practica SQL anu 3\Automobile\Automobile\obj\Debug\Automobile.pdb
+E:\CEITI (CICH)\Practica SQL anu 3\Automobile\Automobile\obj\Debug\Automobile.csprojResolveAssemblyReference.cache
+E:\CEITI (CICH)\Practica SQL anu 3\Automobile\Automobile\obj\Debug\Automobile.Form3.resources
+E:\CEITI (CICH)\Practica SQL anu 3\Automobile\Automobile\obj\Debug\Automobile.Form4.resources
+E:\CEITI (CICH)\Practica SQL anu 3\Automobile\Automobile\obj\Debug\Automobile.Form5.resources
+E:\CEITI (CICH)\Practica SQL anu 3\Automobile\Automobile\obj\Debug\Automobile.Form6.resources
+E:\CEITI (CICH)\Practica SQL anu 3\Automobile\Automobile\obj\Debug\Automobile.Form7.resources
+E:\CEITI (CICH)\Practica SQL anu 3\Automobile\Automobile\obj\Debug\Automobile.Form8.resources
+E:\CEITI (CICH)\Practica SQL anu 3\Automobile\Automobile\obj\Debug\Automobile.Form9.resources
+E:\CEITI (CICH)\Practica SQL anu 3\Automobile\Automobile\obj\Debug\Automobile.Form10.resources
+E:\CEITI (CICH)\Practica SQL anu 3\Automobile\Automobile\obj\Debug\Automobile.Form11.resources
+C:\Users\Xpoint\Desktop\Automobile\Automobile\Automobile\bin\Debug\Automobile.exe.config
+C:\Users\Xpoint\Desktop\Automobile\Automobile\Automobile\obj\Debug\Automobile.exe
+C:\Users\Xpoint\Desktop\Automobile\Automobile\Automobile\obj\Debug\Automobile.pdb
+C:\Users\Xpoint\Desktop\Automobile\Automobile\Automobile\obj\Debug\Automobile.csprojResolveAssemblyReference.cache
+C:\Users\Xpoint\Desktop\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form1.resources
+C:\Users\Xpoint\Desktop\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form10.resources
+C:\Users\Xpoint\Desktop\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form11.resources
+C:\Users\Xpoint\Desktop\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form2.resources
+C:\Users\Xpoint\Desktop\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form3.resources
+C:\Users\Xpoint\Desktop\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form4.resources
+C:\Users\Xpoint\Desktop\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form5.resources
+C:\Users\Xpoint\Desktop\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form6.resources
+C:\Users\Xpoint\Desktop\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form7.resources
+C:\Users\Xpoint\Desktop\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form8.resources
+C:\Users\Xpoint\Desktop\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form9.resources
+C:\Users\Xpoint\Desktop\Automobile\Automobile\Automobile\obj\Debug\Automobile.Properties.Resources.resources
+C:\Users\Xpoint\Desktop\Automobile\Automobile\Automobile\obj\Debug\Automobile.csproj.GenerateResource.Cache
+C:\Users\Xpoint\Desktop\Automobile\Automobile\Automobile\bin\Debug\Automobile.exe
+C:\Users\Xpoint\Desktop\Automobile\Automobile\Automobile\bin\Debug\Automobile.pdb
+C:\Users\Dinu Mihne\Desktop\Automobile\Automobile\Automobile\bin\Debug\Automobile.exe.config
+C:\Users\Dinu Mihne\Desktop\Automobile\Automobile\Automobile\obj\Debug\Automobile.exe
+C:\Users\Dinu Mihne\Desktop\Automobile\Automobile\Automobile\obj\Debug\Automobile.pdb
+C:\Users\Dinu Mihne\Desktop\Automobile\Automobile\Automobile\bin\Debug\Automobile.exe
+C:\Users\Dinu Mihne\Desktop\Automobile\Automobile\Automobile\bin\Debug\Automobile.pdb
+C:\Users\Dinu Mihne\Desktop\Automobile\Automobile\Automobile\obj\Debug\Automobile.csprojResolveAssemblyReference.cache
+C:\Users\Dinu Mihne\Desktop\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form1.resources
+C:\Users\Dinu Mihne\Desktop\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form10.resources
+C:\Users\Dinu Mihne\Desktop\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form11.resources
+C:\Users\Dinu Mihne\Desktop\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form2.resources
+C:\Users\Dinu Mihne\Desktop\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form3.resources
+C:\Users\Dinu Mihne\Desktop\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form4.resources
+C:\Users\Dinu Mihne\Desktop\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form5.resources
+C:\Users\Dinu Mihne\Desktop\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form6.resources
+C:\Users\Dinu Mihne\Desktop\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form7.resources
+C:\Users\Dinu Mihne\Desktop\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form8.resources
+C:\Users\Dinu Mihne\Desktop\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form9.resources
+C:\Users\Dinu Mihne\Desktop\Automobile\Automobile\Automobile\obj\Debug\Automobile.Properties.Resources.resources
+C:\Users\Dinu Mihne\Desktop\Automobile\Automobile\Automobile\obj\Debug\Automobile.csproj.GenerateResource.Cache
+D:\a\Practica\I1131\Rosu\Automobile\Automobile\Automobile\bin\Debug\Automobile.exe.config
+D:\a\Practica\I1131\Rosu\Automobile\Automobile\Automobile\obj\Debug\Automobile.exe
+D:\a\Practica\I1131\Rosu\Automobile\Automobile\Automobile\obj\Debug\Automobile.pdb
+D:\a\Practica\I1131\Rosu\Automobile\Automobile\Automobile\bin\Debug\Automobile.exe
+D:\a\Practica\I1131\Rosu\Automobile\Automobile\Automobile\bin\Debug\Automobile.pdb
+D:\a\Practica\I1131\Rosu\Automobile\Automobile\Automobile\obj\Debug\Automobile.csprojResolveAssemblyReference.cache
+D:\a\Practica\I1131\Rosu\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form1.resources
+D:\a\Practica\I1131\Rosu\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form10.resources
+D:\a\Practica\I1131\Rosu\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form11.resources
+D:\a\Practica\I1131\Rosu\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form2.resources
+D:\a\Practica\I1131\Rosu\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form3.resources
+D:\a\Practica\I1131\Rosu\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form4.resources
+D:\a\Practica\I1131\Rosu\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form5.resources
+D:\a\Practica\I1131\Rosu\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form6.resources
+D:\a\Practica\I1131\Rosu\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form7.resources
+D:\a\Practica\I1131\Rosu\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form8.resources
+D:\a\Practica\I1131\Rosu\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form9.resources
+D:\a\Practica\I1131\Rosu\Automobile\Automobile\Automobile\obj\Debug\Automobile.Properties.Resources.resources
+D:\a\Practica\I1131\Rosu\Automobile\Automobile\Automobile\obj\Debug\Automobile.csproj.GenerateResource.Cache
+C:\Users\Nelu\Desktop\prac\Rosu_Automobile\Automobile\Automobile\Automobile\bin\Debug\Automobile.exe.config
+C:\Users\Nelu\Desktop\prac\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.exe
+C:\Users\Nelu\Desktop\prac\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.pdb
+C:\Users\Nelu\Desktop\prac\Rosu_Automobile\Automobile\Automobile\Automobile\bin\Debug\Automobile.exe
+C:\Users\Nelu\Desktop\prac\Rosu_Automobile\Automobile\Automobile\Automobile\bin\Debug\Automobile.pdb
+C:\Users\Nelu\Desktop\prac\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.csprojResolveAssemblyReference.cache
+C:\Users\Nelu\Desktop\prac\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form1.resources
+C:\Users\Nelu\Desktop\prac\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form10.resources
+C:\Users\Nelu\Desktop\prac\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form11.resources
+C:\Users\Nelu\Desktop\prac\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form2.resources
+C:\Users\Nelu\Desktop\prac\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form3.resources
+C:\Users\Nelu\Desktop\prac\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form4.resources
+C:\Users\Nelu\Desktop\prac\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form5.resources
+C:\Users\Nelu\Desktop\prac\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form6.resources
+C:\Users\Nelu\Desktop\prac\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form7.resources
+C:\Users\Nelu\Desktop\prac\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form8.resources
+C:\Users\Nelu\Desktop\prac\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form9.resources
+C:\Users\Nelu\Desktop\prac\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Properties.Resources.resources
+C:\Users\Nelu\Desktop\prac\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.csproj.GenerateResource.Cache
+G:\Rosu_Automobile\Automobile\Automobile\Automobile\bin\Debug\Automobile.exe.config
+G:\Rosu_Automobile\Automobile\Automobile\Automobile\bin\Debug\Automobile.exe
+G:\Rosu_Automobile\Automobile\Automobile\Automobile\bin\Debug\Automobile.pdb
+G:\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.csprojResolveAssemblyReference.cache
+G:\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form1.resources
+G:\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form10.resources
+G:\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form11.resources
+G:\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form2.resources
+G:\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form3.resources
+G:\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form4.resources
+G:\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form5.resources
+G:\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form6.resources
+G:\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form7.resources
+G:\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form8.resources
+G:\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form9.resources
+G:\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Properties.Resources.resources
+G:\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.csproj.GenerateResource.Cache
+G:\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.exe
+G:\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.pdb
+C:\Users\Администратор\Desktop\Rosu_Automobile\Automobile\Automobile\Automobile\bin\Debug\Automobile.exe.config
+C:\Users\Администратор\Desktop\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.exe
+C:\Users\Администратор\Desktop\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.pdb
+C:\Users\Администратор\Desktop\Rosu_Automobile\Automobile\Automobile\Automobile\bin\Debug\Automobile.exe
+C:\Users\Администратор\Desktop\Rosu_Automobile\Automobile\Automobile\Automobile\bin\Debug\Automobile.pdb
+C:\Users\Администратор\Desktop\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form1.resources
+C:\Users\Администратор\Desktop\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form10.resources
+C:\Users\Администратор\Desktop\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form11.resources
+C:\Users\Администратор\Desktop\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form2.resources
+C:\Users\Администратор\Desktop\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form3.resources
+C:\Users\Администратор\Desktop\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form4.resources
+C:\Users\Администратор\Desktop\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form5.resources
+C:\Users\Администратор\Desktop\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form6.resources
+C:\Users\Администратор\Desktop\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form7.resources
+C:\Users\Администратор\Desktop\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form8.resources
+C:\Users\Администратор\Desktop\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form9.resources
+C:\Users\Администратор\Desktop\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Rosu_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.csproj.GenerateResource.Cache
+G:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\bin\Debug\Automobile.exe.config
+G:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\bin\Debug\Automobile.exe
+G:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\bin\Debug\Automobile.pdb
+G:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.csprojResolveAssemblyReference.cache
+G:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form1.resources
+G:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form10.resources
+G:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form11.resources
+G:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form2.resources
+G:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form3.resources
+G:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form4.resources
+G:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form5.resources
+G:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form6.resources
+G:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form7.resources
+G:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form8.resources
+G:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form9.resources
+G:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Properties.Resources.resources
+G:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.csproj.GenerateResource.Cache
+G:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.exe
+G:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.pdb
+H:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\bin\Debug\Automobile.exe.config
+H:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.exe
+H:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.pdb
+H:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\bin\Debug\Automobile.exe
+H:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\bin\Debug\Automobile.pdb
+H:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.csprojResolveAssemblyReference.cache
+H:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form1.resources
+H:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form10.resources
+H:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form11.resources
+H:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form2.resources
+H:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form3.resources
+H:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form4.resources
+H:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form5.resources
+H:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form6.resources
+H:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form7.resources
+H:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form8.resources
+H:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Form9.resources
+H:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.Properties.Resources.resources
+H:\_\9.Carapirea_Automobile\Automobile\Automobile\Automobile\obj\Debug\Automobile.csproj.GenerateResource.Cache
